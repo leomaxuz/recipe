@@ -109,7 +109,7 @@ Parameters: no
 Update user
 ```
 Method: PUT
-Attribute: user{id} 
+Attribute: user
 Parameters: username,email,password
 ````
 
